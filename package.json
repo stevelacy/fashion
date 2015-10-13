@@ -1,0 +1,13 @@
+{
+  "name": "fashion",
+  "version": "0.0.1",
+  "author": "Steve Lacy",
+  "bin": {
+    "fashion": "./bin/fashion.js"
+  },
+  "dependencies": {
+    "interpret": "^0.6.6",
+    "liftoff": "^2.2.0",
+    "minimist": "^1.2.0"
+  }
+}
